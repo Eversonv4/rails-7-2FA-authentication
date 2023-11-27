@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+<h1>Link to the video is: <a href="https://www.youtube.com/watch?v=69nTglWf6SM">Click here</a></h1>
